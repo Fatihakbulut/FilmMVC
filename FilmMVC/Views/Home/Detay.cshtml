@@ -1,0 +1,84 @@
+﻿@model Entity.Models.Film
+<style>
+    body{background-color:ThreeDLightShadow;}
+    .yorum {
+        float: right;
+    }
+
+    .glyphicon-star:hover {
+        color: darkblue;
+    }
+</style>
+<h1>@Model.FilmBaslik</h1>
+@{
+    var eski = Model.Fragman.FirstOrDefault().VideoURL;
+    var yeni = eski.Replace("watch?v=", "embed/");
+}
+<iframe width="560" height="315" src=@yeni frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div>
+    <h2>Film Bilgileri</h2>
+    <ul>
+        <li><h4><strong>İçerik:</strong></h4>@Model.FilmIcerik</li>
+        <li><strong>Yönetmen Adı:</strong>@Model.YonetmenAdi</li>
+        <li><strong>Yayınlanma Tarihi:</strong>@Model.YayinlanmaTarihi.ToShortDateString()</li>
+        <li><strong>IMDB Puanı:</strong>@Model.IMDBPuan</li>
+
+    </ul>
+</div>
+
+<link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css">
+<div class="container yorum">
+    <div class="row">
+        <h3>Yorum Yaz...</h3>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-12">
+            <div class="widget-area no-padding blank">
+                <div class="status-upload">
+                    <form>
+                        <textarea placeholder="Yorum yazmak ister misiniz?"></textarea>
+
+                        <button type="submit" class="btn btn-success green"><i class="fa fa-share"></i> Paylaş</button>
+                    </form>
+                </div><!-- Status Upload  -->
+            </div><!-- Widget Area -->
+        </div>
+
+    </div>
+</div>
+<div class="container oylama">
+    <div class="row">
+        <h3>Filmi Oylamak İster misiniz?</h3>
+        <button class="glyphicon glyphicon-star" id="1"></button>
+        <button class="glyphicon glyphicon-star" id="2"></button>
+        <button class="glyphicon glyphicon-star" id="3"></button>
+        <button class="glyphicon glyphicon-star" id="4"></button>
+        <button class="glyphicon glyphicon-star" id="5"></button>
+    </div>
+</div>
+@if (Request.IsAuthenticated)
+{
+    @section scripts{
+        <script>
+            $(".glyphicon-star").click(function () {
+                var oy = $(this).attr("id");
+                var filmID=@Model.FilmID;
+
+                $.ajax({
+                    url: "/Home/FilmOylama/"+filmID,
+                    data:{"oy":oy},
+                    method:"POST",
+                    success:function(cevap){
+                        alert(cevap);
+                    }
+                })
+
+
+            })
+
+        </script>
+    }
+}
+

@@ -1,0 +1,54 @@
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\BLL.dll.config
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\BLL.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\BLL.pdb
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\DAL.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\Entity.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\EntityFramework.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\DAL.pdb
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\Entity.pdb
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\EntityFramework.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\obj\Debug\BLL.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\BLL.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\DAL.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\Entity.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\Entity.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\obj\Debug\BLL.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\BLL\obj\Debug\BLL.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\BLL.dll.config
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\BLL.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\DAL.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\Entity.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\Entity.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\obj\Debug\BLL.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\BLL\obj\Debug\BLL.pdb

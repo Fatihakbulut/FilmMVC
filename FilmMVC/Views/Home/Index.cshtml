@@ -1,0 +1,54 @@
+﻿@using Entity.Models
+@model List<Film>
+<style>
+    body {
+        background-image: url('../../Content/backgorund11.jpg');
+        background-size:cover;
+    }
+    .resimm{height:220px; width:180px; padding:5px;float:left;margin-top:5px;}
+</style>
+
+@foreach (Film item in Model)
+{
+    <div class="resimm" >
+       @* <h2><a href="/Home/Detay/@item.FilmID">@item.FilmBaslik</a></h2>*@
+       <a href="/Home/Detay/@item.FilmID"><img src="~/Content/Upload/@Html.Raw(item.Resimler.Count== 0 ? "": item.Resimler.FirstOrDefault().ResimYolu)" class="resimm"  /></a> 
+        @if (User.IsInRole("Admin"))
+        {
+        <button class="btn btn-danger btn-delete" id="@item.FilmID" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove">
+            </span>Delete
+        </button>
+        }
+    </div>
+}
+
+@*@foreach (Resim item in Model)
+{
+    <div>
+        <img src="~/Content/Upload/@item.ResimYolu." />
+    </div>
+}*@
+
+@section scripts{
+    <script>
+
+        $(".btn-delete").click(function () {
+
+            var id = $(this).attr("id");
+            console.log(id);
+
+            $.ajax({
+                url: "/Home/FilmSil/" + id,
+                method: "POST",
+                data: { "id": id },
+                success: function (cevap) {
+                    alert(cevap);
+                }
+            })
+
+        });
+
+
+    </script>  
+}

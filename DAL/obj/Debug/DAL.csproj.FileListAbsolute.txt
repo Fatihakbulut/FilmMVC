@@ -1,0 +1,48 @@
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\DAL.dll.config
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\DAL.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\DAL.pdb
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\Entity.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\EntityFramework.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\Entity.pdb
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\EntityFramework.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\obj\Debug\DAL.dll
+c:\Users\nuuklu\documents\visual studio 2015\Projects\FilmMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\DAL.dll.config
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\DAL.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\Entity.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\Entity.pdb
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\obj\Debug\DAL.dll
+C:\Users\pc\Desktop\C#\MVC-HTML-CSS\FilmMVC\FilmMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\DAL.dll.config
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\DAL.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\Entity.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\Entity.pdb
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\obj\Debug\DAL.dll
+C:\Users\pc\Desktop\Filmmm\FilmMVC\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,23 @@
+﻿@using Entity.Models
+@model List<Film>
+<style>
+    body {
+        background-image: url('../../Content/backgorund11.jpg');
+        background-size: cover;
+    }
+
+    .resimm {
+        height: 220px;
+        width: 180px;
+        padding: 5px;
+        float: left;
+        margin: 5px;
+    }
+</style>
+
+@foreach (Film item in Model)
+{
+    <div>
+        <a href="/Home/Detay/@item.FilmID"><img src="~/Content/Upload/@Html.Raw(item.Resimler.Count== 0 ? "": item.Resimler.FirstOrDefault().ResimYolu)" class="resimm" /></a>
+    </div>
+}
